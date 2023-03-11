@@ -1,0 +1,65 @@
+Recap:
+
+  spread, rest
+
+  array and object destructure
+  
+  New Concepts:
+    module import and export
+
+    export ( function, obj, vars ) from a file
+
+    import like a object destructure / * as storage( entire object )
+
+    export default
+
+    import obj, { firstExport, secondExport  } from './storage.js';
+
+    obj ---> default export
+
+    firstExport ---> first export, secondExport ---> second export
+
+node js:
+  javascript engine isolated/stripped from browser for execution/interpretation of js file
+
+  Overview Of:
+    npm --> node package manager ( this helps to use the publically available packages or modules )
+
+
+Next Session:
+npx --> node package exectables
+
+package/libraries
+  eg: lodash, charts
+
+Multi Page App: 
+  https://retail.onlinesbi.sbi/personal/
+
+Single Page Application:
+
+React:
+  Structure of React & Folder Structure
+
+  babeljs conversion
+
+  Virtual DOM
+
+  className instead of class ( class is a keyword in js )
+
+  Render/Re-Render:
+    strict mode -> check erros & warnings
+    var, expression
+
+  List Render:
+
+  Components:
+
+Later:
+  Pagination Example
+  Google APIs
+
+
+
+    
+
+
